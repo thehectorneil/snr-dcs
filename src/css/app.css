@@ -1,0 +1,20 @@
+/* app global css */
+body {
+  color: #00000080;
+}
+.q-field__messages {
+  line-height: 3px;
+}
+.q-field--with-bottom {
+  margin-bottom: 25px !important;
+  padding: 0 !important;
+}
+.error-msg {
+  color: #F44336;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+.date-picker .q-field__control:before {
+  border-style: none !important;
+  border: 1px solid grey !important;
+}
